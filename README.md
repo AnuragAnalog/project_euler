@@ -44,6 +44,14 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 Time-taken: 3.910064697265625e-05
 
+**Problem7: 10001st prime**
+
+*Statement:*    By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+
+What is the 10 001st prime number?
+
+Time-taken: 0.24418091773986816
+
 **Problem8: Largest product in a series**
 
 *Statement:*    The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
@@ -86,6 +94,14 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
 
 Time-taken: 0.10924601554870605
+
+**Problem10: Summation of primes**
+
+*Statement:*    The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+
+Find the sum of all the primes below two million.
+
+Time-taken: 13.609575748443604
 
 **Problem13: Large sum**
 
