@@ -340,3 +340,57 @@ Find the sum of all numbers, less than one million, which are palindromic in bas
 (Please note that the palindromic number, in either base, may not include leading zeros.)
 
 Time-taken: 0.21373534202575684
+
+**Problem40: Champernowne's constant**
+
+*Statement:*    An irrational decimal fraction is created by concatenating the positive integers:
+
+    0.123456789101112131415161718192021...
+
+It can be seen that the 12th digit of the fractional part is 1.
+
+If dn represents the nth digit of the fractional part, find the value of the following expression.
+
+    d1 × d10 × d100 × d1000 × d10000 × d100000 × d1000000
+
+Time-taken: 0.06264543533325195
+
+**Problem48: Self powers**
+
+*Statement:*    The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
+
+Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
+
+Time-taken: 0.01032567024230957
+
+**Problem52: Permuted multiples**
+
+*Statement:*    It can be seen that the number, 125874, and its double, 251748, contain exactly the same digits, but in a different order.
+
+Find the smallest positive integer, x, such that 2x, 3x, 4x, 5x, and 6x, contain the same digits.
+
+Time-taken: 0.24191737174987793
+
+**Problem53: Combinatoric selections**
+
+*Statement:*
+There are exactly ten ways of selecting three from five, 12345:
+
+    123, 124, 125, 134, 135, 145, 234, 235, 245, and 345
+
+In combinatorics, we use the notation, 5C3=10.
+
+In general, nCr=n!/(r!(n−r)!), where r≤n, n!=n×(n−1)×...×3×2×1, and 0!=1.
+It is not until n = 23, that a value exceeds one-million: 23C10=1144066.
+
+How many, not necessarily distinct, values of nCr for 1≤n≤100, are greater than one-million?
+
+Time-taken: 0.004127979278564453
+
+**Problem56: Powerful digit sum**
+
+*Statement:*    A googol (10^100) is a massive number: one followed by one-hundred zeros; 100^100 is almost unimaginably large: one followed by two-hundred zeros. Despite their size, the sum of the digits in each number is only 1.
+
+Considering natural numbers of the form, a^b, where a, b < 100, what is the maximum digital sum?
+
+Time-taken: 0.10944294929504395
