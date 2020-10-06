@@ -36,6 +36,12 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 
 Time-taken: 0.3633131980895996
 
+**Problem5: Smallest multiple**
+
+*Statement:*    2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
 **Problem6: Sum square difference**
 
 *Statement:*    The sum of the squares of the first ten natural numbers is,
