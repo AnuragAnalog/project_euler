@@ -17,7 +17,7 @@ What is the sum of the numbers on the diagonals in a 1001 by 1001 spiral formed 
 
 #----------------------------------------------------------------
 #taking size as input, so that 2D matrix is of sizeXsize 
-size=int(input())
+size=int(input("Entre size of 2D array : "))
 
 # code for adding elements of diadonal 1
 n,sumDiagonal1=1,1
