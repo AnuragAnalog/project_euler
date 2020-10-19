@@ -572,4 +572,4 @@ Surprisingly, bouncy numbers become more and more common and by the time we reac
 
 Find the least number for which the proportion of bouncy numbers is exactly 99%.
 
-Time-taken: 2.7s
+Time-taken: 2.75s

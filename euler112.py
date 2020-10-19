@@ -28,4 +28,4 @@ while p != 0.99:
     if is_bouncy(n): b += 1
     p = b / n
 
-print "Project Euler 112 Solution =", n
+print "Project Euler 112 Solution:", n
