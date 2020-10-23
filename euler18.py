@@ -41,11 +41,19 @@ for i in range(13,-1,-1):
         addend = max(int(data[i+1][j]),int(data[i+1][j+1]))
         Sum = str(int(data[i][j]) + addend)
         temp.append(Sum)
-        d = "-" * (i+1)
     data = data[:i] + [temp]
 
 end = time.time()
 
 print(f"answer: {data[0][0]}")
 print(f"execution time: {end - start} seconds")
+
+
+
+
+
+
+
+
+
 
