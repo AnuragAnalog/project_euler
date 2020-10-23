@@ -559,6 +559,22 @@ Considering natural numbers of the form, a^b, where a, b < 100, what is the maxi
 
 Time-taken: 0.10944294929504395
 
+**Problem 67: Maximum path sum II**
+
+By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
+
+                                                        3
+                                                       7 4
+                                                      2 4 6
+                                                     8 5 9 3
+
+That is, 3 + 7 + 4 + 9 = 23.
+
+Find the maximum total from top to bottom in triangle.txt (right click and 'Save Link/Target As...'), a 15K text file containing a triangle with one-hundred rows.
+
+NOTE: This is a much more difficult version of Problem 18. It is not possible to try every route to solve this problem, as there are 299 altogether! If you could check one trillion (1012) routes every second it would take over twenty billion years to check them all. There is an efficient algorithm to solve it. ;o)
+
+
 **Problem97: Large non-Mersenne prime**
 
 *Statement:*    The first known prime found to exceed one million digits was discovered in 1999, and is a Mersenne prime of the form (2^6972593)−1; it contains exactly 2,098,960 digits. Subsequently other Mersenne primes, of the form (2^p)−1, have been found which contain more digits.
