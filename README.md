@@ -505,7 +505,7 @@ Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
 
 Time-taken: 0.01032567024230957
 
-**Problem48: Consecutive prime sum**
+**Problem50: Consecutive prime sum**
 
 The prime 41, can be written as the sum of six consecutive primes:
 
