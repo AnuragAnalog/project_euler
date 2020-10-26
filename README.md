@@ -555,6 +555,20 @@ Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.
 
 Time-taken: 0.01032567024230957
 
+**Problem50: Consecutive prime sum**
+
+The prime 41, can be written as the sum of six consecutive primes:
+
+                                                        41 = 2 + 3 + 5 + 7 + 11 + 13
+                                                        
+This is the longest sum of consecutive primes that adds to a prime below one-hundred.
+
+The longest sum of consecutive primes below one-thousand that adds to a prime, contains 21 terms, and is equal to 953.
+
+Which prime, below one-million, can be written as the sum of the most consecutive primes?
+
+Time-taken: 0.8478395938873291
+
 **Problem52: Permuted multiples**
 
 *Statement:*    It can be seen that the number, 125874, and its double, 251748, contain exactly the same digits, but in a different order.
