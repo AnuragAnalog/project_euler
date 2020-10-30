@@ -23,6 +23,7 @@ int largestPrimeFactor(int n){
 int main()
 {
     int number;
+    scanf("%d",&number);
     int result  = largestPrimeFactor(number);
     printf("tThe result is %d",number);
 
