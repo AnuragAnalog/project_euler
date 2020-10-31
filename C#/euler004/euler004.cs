@@ -12,7 +12,7 @@ namespace LargestPalindromeProduct
                 {
                     if (isPalindrome(i*j))
                     {
-                        System.Console.WriteLine(i*j+" "+i+" "+j);
+                        Console.WriteLine(i*j);
                         Environment.Exit(0);                            
                     }
                 }   
